@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b45f2cdb-8b4a-474f-a152-9dc0d6b390de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NettyRPC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EskqFgMR5NdU0c0SeoKj7Dd26t" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../herocat" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hero.rpc.consumerStub" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hero-workspace\HeroRPC\hero-producer\src\main\java\com\hero\rpc" />
+      <recent name="D:\hero-workspace\HeroRPC\hero-consumer\src\main\java\com\hero\rpc" />
+      <recent name="D:\hero-workspace\NettyRPC\src\main\java\com\hero\rpc\client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestHeroRPC (1)">
+    <configuration name="HeroRPCServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.producerStub.HeroRPCServer" />
+      <module name="hero-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.producerStub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRPCServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.producerStub.HeroRPCServer" />
+      <module name="HeroRPC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.producerStub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroRPCServer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.producerStub.HeroRPCServer" />
+      <module name="hero-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.producerStub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHeroRPC (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.TestHeroRPC" />
+      <module name="hero-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHeroRPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.consumer.TestHeroRPC" />
+      <module name="HeroRPC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHeroRPC" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hero.rpc.TestHeroRPC" />
+      <module name="hero-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hero.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HeroRPCServer" />
+      <item itemvalue="Application.TestHeroRPC" />
+      <item itemvalue="Application.HeroRPCServer (1)" />
+      <item itemvalue="Application.TestHeroRPC (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestHeroRPC (1)" />
+        <item itemvalue="Application.HeroRPCServer (1)" />
+        <item itemvalue="Application.TestHeroRPC" />
+        <item itemvalue="Application.HeroRPCServer" />
+        <item itemvalue="Application.TestHeroRPC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45f2cdb-8b4a-474f-a152-9dc0d6b390de" name="Default Changelist" comment="" />
+      <created>1663391867926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663391867926</updated>
+      <workItem from="1663391872802" duration="4114000" />
+      <workItem from="1663656542104" duration="19000" />
+      <workItem from="1663677350310" duration="424000" />
+      <workItem from="1663678028741" duration="7000" />
+      <workItem from="1664008643955" duration="77000" />
+      <workItem from="1664008798218" duration="416000" />
+      <workItem from="1664026297388" duration="2200000" />
+      <workItem from="1666331972018" duration="347000" />
+      <workItem from="1666339170094" duration="1133000" />
+      <workItem from="1667271958227" duration="28000" />
+      <workItem from="1675069814951" duration="11000" />
+      <workItem from="1675069842077" duration="3050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

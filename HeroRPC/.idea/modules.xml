@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeroRPC.iml" filepath="$PROJECT_DIR$/HeroRPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-consumer/hero-consumer.iml" filepath="$PROJECT_DIR$/hero-consumer/hero-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-producer/hero-producer.iml" filepath="$PROJECT_DIR$/hero-producer/hero-producer.iml" />
+    </modules>
+  </component>
+</project>
